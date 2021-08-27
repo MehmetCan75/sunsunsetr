@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sunsunsetr/static/css/main.403d5bb7.chunk.css",
+    "main.css": "/sunsunsetr/static/css/main.6e7ef086.chunk.css",
     "main.js": "/sunsunsetr/static/js/main.3bd945d8.chunk.js",
     "main.js.map": "/sunsunsetr/static/js/main.3bd945d8.chunk.js.map",
     "runtime-main.js": "/sunsunsetr/static/js/runtime-main.9e882158.js",
@@ -10,7 +10,7 @@
     "static/js/3.db8696de.chunk.js": "/sunsunsetr/static/js/3.db8696de.chunk.js",
     "static/js/3.db8696de.chunk.js.map": "/sunsunsetr/static/js/3.db8696de.chunk.js.map",
     "index.html": "/sunsunsetr/index.html",
-    "static/css/main.403d5bb7.chunk.css.map": "/sunsunsetr/static/css/main.403d5bb7.chunk.css.map",
+    "static/css/main.6e7ef086.chunk.css.map": "/sunsunsetr/static/css/main.6e7ef086.chunk.css.map",
     "static/js/2.9e2ba786.chunk.js.LICENSE.txt": "/sunsunsetr/static/js/2.9e2ba786.chunk.js.LICENSE.txt",
     "static/media/Appart1.3d091fd8.jpg": "/sunsunsetr/static/media/Appart1.3d091fd8.jpg",
     "static/media/Appart2.9634ee93.jpg": "/sunsunsetr/static/media/Appart2.9634ee93.jpg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.9e882158.js",
     "static/js/2.9e2ba786.chunk.js",
-    "static/css/main.403d5bb7.chunk.css",
+    "static/css/main.6e7ef086.chunk.css",
     "static/js/main.3bd945d8.chunk.js"
   ]
 }
