@@ -39,7 +39,7 @@ export default function Navbar() {
     <nav>
         {(toggleMenu || largeur > 500)  && (
      <ul className="liste">
-         <Link to="/" onClick={closeMenu}>
+         <Link to="/sunsunsetr" onClick={closeMenu}>
          <li className="items">Accueil</li>
          </Link>
          <Link to="/villa" onClick={closeMenu}>
